@@ -1,0 +1,555 @@
+body{
+    font-family: 'Inter';
+}
+.caixa1{
+    position: relative;
+    background-color: #D0EBFF;
+    border:0px; 
+    padding: 5px;
+    height: 678px;
+    width: 1366px;
+    left: 4px;
+       
+}
+.bemvindo{
+    position: absolute;
+    font-size: 12px;
+    left: 123px;
+    height: 21px;
+    top: 162px;
+    color: #1971C2;
+    font-weight: bold;
+}
+h1{
+    position: absolute;
+   width: 605px;
+   height: 136px;
+   top: 169px;
+   left: 123px; 
+   font-weight: 700;
+   font-size: 48px;
+   line-height: 67.6px;
+}
+h2{
+    position: absolute;
+    width: 465px;
+    height: 136px;
+    top: 339px;
+    left: 123px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    color: #495057;
+}
+#quero{
+    position: absolute;
+    height: 50px;
+    width: 209px;
+    left: 123px;
+    top: 435px;
+    font-size: 12px;
+    padding: 16px 32px;
+    background: #1971C2;
+    border-radius: 50px;
+    color: #FFFFFF;
+    border-width: 0px;
+
+}
+#solicitar{
+    position: absolute;
+    height: 31px;
+    width: 126px;
+    left: 1082px;
+    top: 25px;
+    border-radius: 50px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 11px;
+    letter-spacing: 0em;
+    background: transparent; 
+    color: #1971C2;
+    border-color: #1971C2;
+    border-width: 1px;
+    
+
+}
+#Futuro{
+    position: absolute;
+    height: 53px;
+    width: 253px;
+    height: 53px;
+    width: 253px;
+    left: 123px;
+    top: 15px;
+    font-style: normal;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0em;  
+    border-radius: 0%;
+    border:transparent;
+    background-color:transparent;
+    color: black;
+    
+}
+#DEV{
+    position: absolute;
+    height: 53px;
+    width: 253px;
+    height: 53px;
+    width: 253px;
+    left: 194px;
+    top: 15px;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0em;  
+    border-radius: -5%;
+    border:transparent;
+    background-color: transparent;
+    color: #1971C2;
+    
+}
+#menu{
+    position: relative;
+    top: 0px;
+    border-radius: nullpx;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1971C2;
+    float: left;
+    padding: 16px;
+    left: 513px;
+    
+}
+.inicio{
+    font-weight: 700;
+}
+.select{
+    position: relative;
+width: 37px;
+height: 2px;
+top:55px;
+left: 181px;
+}
+
+.imag1{
+    position: absolute;
+    height: 486px;
+    width: 500px;
+    left: 743px;
+    top: 75px; 
+}
+
+.caixa2{
+    box-sizing: border-box;
+    position: absolute;
+    background-color: white;
+    top: 571px;
+    left: 123px;
+    border:1px solid #F0F9FF;
+    border-radius: 6px; 
+    height: 210px;
+    width: 1120px;
+    z-index: 4;
+    
+}
+#number{
+position: absolute;
+top: 0px;
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 130%;
+color: #061800;
+}
+.number1{
+    width: 120px;
+    height: 62px;
+    left: 120px;
+}
+.number2{
+    width: 63px;
+    height: 62px;
+    left: 541px;
+}
+.number3{
+    width: 58px;
+    height: 62px;
+    left: 896px;
+}
+#definicao{
+    position: absolute;
+    top: 75px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;  
+    color: #1971C2;
+    
+}
+.definicao1{
+    width: 143px;
+    height: 24px;
+    left: 128px;
+}
+.definicao2{
+    width: 214px;
+    height: 24px;
+    left: 487px;
+}
+.definicao3{
+    width: 131px;
+    height: 24px;
+    left: 870px;
+}
+#divisor{
+    position: relative;
+    top: 35px;
+    width: 0px;
+    height:83px;
+    opacity: 50%;
+    border: 1px solid #1971C2;
+    
+}
+.divisor1{
+    left: 387px;
+}
+.divisor2{
+    left: 770px;
+}
+.caixa3{
+    position: absolute;
+    top: 698px;
+    width: 1386px;
+    height: 1082px;
+    left: 0px;
+    background-color: #f9f9f9;
+
+}
+.servicos{
+    position: absolute;
+    color: #1971C2;
+    left: 646px;
+    top: 160px;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: 0.08em;
+
+}
+.help{
+    position: absolute;
+    height: 104px;
+width: 559px;
+left: 404px;
+top: 193px;
+border: radius 0; ;
+font-size: 40px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: 0em;
+text-align: center;
+
+    font-family: 'DM Sans', sans-serif;
+
+}
+
+.caixas{
+    position: absolute;
+    width: 347px;
+    height: 207px;
+    background-color: white;
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 0em;
+    border-radius: nullpx;
+    top: 1168px;
+}
+.caixas1{
+    position: absolute;
+    width: 347px;
+    height: 207px;
+    background-color: white;
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 0em;
+    border-radius: nullpx;
+    top: 1483px;
+}
+
+.pg{
+    position: absolute;
+    height: 31px;
+    width: 260px;
+    left: 24px;
+    top: 64px;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.vector{
+    position: absolute;
+    width: 10.18px;
+    height: 7px;
+    top: 32.18px;
+    left: 30.91px;
+    color: #1971C2;
+    z-index: 1;
+
+}
+.elipse{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 24px;
+    top: 24px;
+    border-radius: 20px;
+    background: #F0F9FF;
+    
+}
+.pgtext{
+   position: absolute;
+   height: 72px;
+width: 299px;
+left: 24px;
+top: 111px;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #384633;
+
+}
+#caixa4{
+    position: absolute;
+    left: 123px;
+}
+#caixa5{
+    position: absolute;
+    left: 510px;
+}
+#caixa6{
+    position: absolute;
+    left: 897px;
+}
+#caixa7{
+    position: absolute;
+    left: 123px;
+}
+#caixa8{
+    position: absolute;
+    left: 510px;
+}
+#caixa9{
+    position: absolute;
+    left: 897px;
+}
+.caixa10{
+    position: absolute;
+    height: 1222px;
+    width: 1366px;
+    left: -1px;
+    top: 1760px;
+    border-radius: 0px;
+    
+    
+}
+.caixadepo{
+    position: absolute;
+   top: 2121px; 
+   height: 273px;
+   width: 544px;
+   padding: 32px;
+   gap: 20px;
+   background-color: #F0F9FF;
+   border-radius: 4px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: flex-start;
+   
+
+}
+.aspas{
+    position: absolute;
+    height: 31px;
+width: 45px;
+left: 32px;
+top: 32px;
+border-radius: 0px;
+
+}
+.depo{
+position: absolute;
+font-size: 16px;
+   font-weight: 400;
+   font-family: 'DM Sans';
+   line-height: 24px;
+   height: 96px;
+width: 440px;
+left: 32px;
+top: 83px;
+border-radius: nullpx;
+
+}
+.imgem{
+    position: absolute;
+    height: 42px;
+width: 42px;
+left: 32px;
+top: 199px;
+border-radius: 1000px;
+border-radius: 1000px;
+}
+.nome{
+    position: absolute;
+    font-family: 'DM Sans';
+font-size: 16px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+height: 28px;
+width: 120px;
+left: 90px;
+top: 206px;
+border-radius: nullpx;
+color: #1971C2;
+
+}
+#servicos{
+    position: absolute;
+}
+
+#caix11{
+    position: absolute;
+    left: 124px;
+}
+#caixa12{
+    position: absolute;
+    left: 897px;
+}
+.dots{
+    position: absolute;
+    position: absolute;
+width: 12px;
+height: 12px;
+left: 657px;
+top: 683px;
+
+background: #1971C2;
+     
+}
+.empreconfiam{
+    position: absolute;
+    height: 44.675113677978516px;
+width: 350.4941101074219px;
+left: 508.7529296875px;
+top: 2550px;
+border-radius: nullpx;
+font-family: 'DM Sans';
+font-size: 24px;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.facebook{
+    position: absolute;
+    height: 44.675296783447266px;
+    width: 210.8235321044922px;
+    left: 124px;
+    top: 2650px;
+    border-radius: 0px;
+    
+}
+.google{
+    position: absolute;
+    height: 44.675296783447266px;
+    width: 210.8235321044922px;
+    left: 465px;
+    top: 2660px;
+    border-radius: 0px;
+    
+}
+.apleona{
+    position: absolute;
+    top: 2660px;
+    left: 749px;
+}
+#pleo{
+position: absolute;
+left: 782px;
+}
+#n{
+    position: absolute;
+    left: 893px;
+}
+#a{
+    position: absolute;
+    left: 922px;
+}
+.linkedin{
+    position: absolute;
+    top: 2660px;
+    left: 1081px;
+}
+#ed{
+    position: absolute;
+    left: 1152px;
+
+}
+#in{
+    position: absolute;
+    left: 1207px;
+    z-index: 1;
+}
+#cor{
+    position: absolute;
+    top: 2650px;
+    left: 1201px;
+    height: 46.93826675415039px;
+    width: 42.646121978759766px;
+
+}
+.caixaazul{
+    position: absolute;
+    height: 304px;
+width: 1121px;
+left: 124px;
+top: 2784px;
+border-radius: 10px;
+background: #1971C2;
+border-radius: 10px;
+
+}
+.chamada{
+    position: absolute;
+    height: 104px;
+width: 497px;
+left: 100px;
+top: 100px;
+border-radius: nullpx;
+font-family: 'DM Sans';
+font-size: 40px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: 0em;
+text-align: left;
+
+}
